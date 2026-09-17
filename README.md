@@ -1,15 +1,15 @@
 # 📊 Simulador de Investimentos em Fundos Imobiliários (FIIs) - Versão Pro 🥤
 
-> **Projeto desenvolvido para o Desafio de Laboratório de Excel do Bootcamp DIO (Digital Innovation One) em parceria com o Grupo HEINEKEN.**
+> **Projeto desenvolvido para o Desafio de Laboratório de Excel do Bootcamp DIO (Digital Innovation One).**
 
 ---
 
 ## 🏛️ Origem do Conteúdo e Contexto do Desafio
 
-Este repositório é fruto da jornada de aprendizado no **Bootcamp Inteligência Artificial Aplicada a Vendas**, realizado pela [Digital Innovation One (DIO)](https://dio.me) em parceria com o **Grupo HEINEKEN**.
+Este repositório é fruto da jornada de aprendizado no **Bootcamp com Excel**, realizado pela [Digital Innovation One (DIO)](https://dio.me).
 
-### 1. 🎯 O Desafio de Negócio (Grupo HEINEKEN / Marca FYS)
-Durante o bootcamp, os especialistas do Grupo HEINEKEN compartilharam os desafios reais de Trade Marketing para a marca de refrigerantes **FYS** (*"Menos marketing, mais sabor"*). A marca busca otimizar a presença no subcanal de **padarias**, onde o volume de vendas tem alto potencial, mas enfrenta desafios logísticos e de visibilidade nos pontos de venda (PDV).
+### 1. 🎯 O Desafio Excel
+O projeto consiste na criação de uma ferramenta simples em Excel para simular investimentos em fundos imobiliários. O objetivo é aplicar os conceitos de Excel no desenvolvimento de uma ferramenta prática de simulação de investimentos em fundos imobiliários.
 
 ### 2. 🧮 O Desafio Prático de Excel (Simulador de Investimentos em FIIs)
 Para fortalecer a capacidade analítica e o domínio de planilhas financeiras dos participantes, a DIO propôs o desenvolvimento de uma ferramenta prática de simulação de investimentos em **Fundos Imobiliários (FIIs)**. 
@@ -106,7 +106,7 @@ Matriz de alocação de carteira dividida em **6 segmentos imobiliários**:
 
 - **Autor**: Enrico
 - **Plataforma**: [Digital Innovation One (DIO)](https://dio.me)
-- **Parceiro Institucional**: Grupo HEINEKEN / Marca FYS
+
 
 ---
 *Fim da Documentação.*
